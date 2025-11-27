@@ -1,0 +1,8 @@
+name: dsci522-env
+channels:
+  - conda-forge
+dependencies:
+  - pandas=2.2.2
+  - python=3.11.9
+  - numpy=1.26.4
+prefix: /Users/diana/miniforge3/envs/dsci522-env
