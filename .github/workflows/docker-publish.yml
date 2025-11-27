@@ -30,4 +30,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: dianadadkhah/dsci522-image:latest
+          tags: dianadadkhah/dsci522-dockerfile-practice:latest
+
